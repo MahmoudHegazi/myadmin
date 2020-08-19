@@ -106,6 +106,7 @@ make_title();
 
 let finished_container = document.getElementById('finished');
 let niky_container = document.getElementById('nike_container');
+	//function end_task() { let index = 0; // after query gt count row and if index > count return and stop}
 $(document).ready(function() {
     $('input').click(function(e) {		
         e.preventDefault();
